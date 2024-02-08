@@ -8,7 +8,6 @@ We have taken the data from the below file for data analysis purpose.
 [DataProfessionSurveyAnalysis](https://github.com/AnjyK/Data-Analyst-Portfolio-/blob/main/Data%20Profession%20Survey%20Analysis.xlsx)
 
 ### Tools
-
 - Excel
 - Power BI
 
