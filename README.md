@@ -25,5 +25,7 @@ The data has been refined by eliminating empty columns and standardizing the rep
  7. What is the count of voters who have transitioned careers at some point in their lives?
 
 ### Results/Findings
-[DataProfessionPowerBIDashboard](https://github.com/AnjyK/Data-Analyst-Portfolio-/blob/main/DataProfessionSurvey.pdf)
+[DataProfessionPowerBIDashboard.pdf](https://github.com/AnjyK/Data-Analyst-Portfolio-/blob/main/DataProfessionSurvey.pdf)
+
+[DataProfessionSurvey.pbix](https://github.com/AnjyK/Data-Analyst-Portfolio-/blob/main/DataProfessionSurvey.pbix)
                   
